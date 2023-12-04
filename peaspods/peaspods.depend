@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701436314 source:/home/svavark/Documents/code/cplusplusbook/peaspods/main.cpp
+	<iostream>
+
+1701436807 source:/home/svavark/Documents/code/cplusplusbook/peaspods/sumproduct.cpp
+	<iostream>
+
